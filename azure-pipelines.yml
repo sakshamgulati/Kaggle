@@ -9,7 +9,7 @@ trigger:
 pool: win_reco_engine
 
 steps:
-- script: echo Hello, world!
+- script: echo Hello, Data science!
   displayName: 'Run a one-line script'
 
 - script: |
